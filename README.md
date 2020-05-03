@@ -32,3 +32,5 @@ To execute the program, type this:
 java HelloWorld
 ```
 The example done from Git
+
+## Git trigger example
