@@ -33,4 +33,4 @@ java HelloWorld
 ```
 The example done from Git
 
-## Git trigger example with webhook trigger
+## 18/07/2020 Git Trigger
