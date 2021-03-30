@@ -9,7 +9,8 @@ pipeline {
       }
       stage('Build'){
         steps {
-            sh 'javac HelloWorld.java'
+            sh 'sudo docker build . -t yaminianand/mytomcat1'
+            sh 'sudo docker push yaminianand/mytomcat1'
         }
       }
    }
